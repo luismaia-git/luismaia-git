@@ -1,6 +1,6 @@
 ## 🚀 About Me 🚀
 ```py
-LuísMaia = {
+I = {
   'Name': 'Luis',
   'Age': 19,
   'Langs': 'Ruby, Python'
