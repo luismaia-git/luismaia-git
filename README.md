@@ -1,9 +1,9 @@
 ## 🚀 About Me 🚀
 ```py
-class LuisMaia = {
+class LuisMaia: {
   'Name': 'Luis',
   'Age': 19,
-  'Langs': 'Ruby, Python'
+  'Langs': 'Ruby, Python',
   'Tech': 'Git'
 }
 ```
