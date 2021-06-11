@@ -2,7 +2,7 @@
 ```py
 class LuisMaia: 
   Name = 'Luis'
-  Age = 19,
+  Age = 19
   Langs = 'Ruby, Python'
   Tech = 'Git'
 ```
