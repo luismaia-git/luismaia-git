@@ -2,9 +2,9 @@
 ```py
 class LuisMaia: 
   Name = 'Luis'
-  Age = 19
+  Age = 20
   Langs = 'Ruby, Python'
-  Tech = 'Git'
+  Tech = 'Git, Linux, Windows'
 ```
 <div style="display: inline_block">
     <a href = "mailto: luismaia1407@gmail.com"><img src="https://img.shields.io/badge/-Email-%238a90c7?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
