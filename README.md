@@ -3,7 +3,7 @@
 class LuisMaia: 
   Name = 'Luis'
   Age = 20
-  Langs = 'Ruby, Python'
+  Langs = 'C, Python'
   Tech = 'Git, Linux, Windows'
 ```
 <div style="display: inline_block">
