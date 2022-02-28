@@ -17,7 +17,7 @@
   <img align="center" alt="Luis-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Luis-windows" height="20" width="60" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" alt="Luis-linux" height="20" width="60" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667">
-  <img align="right" alt="Luis-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/883386152592232460/947726198857941072/photo3_1.jpeg?width=384&height=384">
+  
 </div>
   
   ## 
