@@ -1,7 +1,7 @@
 ## 🚀 Oi! Eu sou o Luís! 🚀
 - Você pode entrar em contato comigo em: luismaia1407@gmail.com
 - Atualmente sou graduando em Ciência da Computação na Universidade Federal do Ceará
-- Estou estudando desenvolvimento web e tambem Java.
+- Estou estudando desenvolvimento web e também Java.
 
 
 <div align="center">
