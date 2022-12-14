@@ -1,7 +1,7 @@
 ## 🚀 Oi! Eu sou o Luís! 🚀
 - Você pode entrar em contato comigo em: luismaia1407@gmail.com
 - Atualmente sou graduando em Ciência da Computação na Universidade Federal do Ceará
-- Estou estudando desenvolvimento web, NodeJs, Express, React, Next...
+- Estou estudando desenvolvimento web, NodeJs, Express, React, Next, Nest...
 
 
 <div align="center">
