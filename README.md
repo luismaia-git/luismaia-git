@@ -1,13 +1,13 @@
 ## 🚀 Oi! Eu sou o Luís! 🚀
 - Você pode entrar em contato comigo em: luismaia1407@gmail.com
 - Atualmente sou graduando em Ciência da Computação na Universidade Federal do Ceará
-- Estou estudando desenvolvimento web, NodeJs, Express, React, Next, Nest...
+- Estou estudando desenvolvimento web, NodeJs, Express, React, React Native, Next, Nest...
 
 
 <div align="center">
   <a href="https://github.com/luismaia-git">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luismaia-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismaia-git&layout=compact&langs_count=8&hide_border=false&title_color=fffffff&icon_color=000000&text_color=ffffff&bg_color=1A1B26"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luismaia-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luismaia-git&layout=compact&langs_count=8&hide_border=false&title_color=fffffff&icon_color=000000&text_color=ffffff&bg_color=1A1B26"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -18,6 +18,7 @@
   <img align="center" alt="Luis-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Luis-windows" height="30" width="80" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" alt="Luis-linux" height="30" width="40" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667">
+  <img  align="center" alt="Luis-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  />
   
   
 </div>
