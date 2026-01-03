@@ -1,8 +1,8 @@
 ## 🚀 Hello! I'm Luís! 🚀
-I'm a Computer Scientist with full-stack development skills in HTML, CSS, JavaScript and TypeScript and proficient in using ReactJS, NextJS, Material-UI and Tailwind CSS to create attractive and intuitive user interfaces. I have experience with unit testing with Jest. I am passionate about software engineering, i study a lot about software architecture, good practices in building good software, innovation and i always seek to learn new technologies to provide creative and efficient solutions for projects. I strive to create a great user experience.
+I'm a Computer Scientist with full-stack development skills in Java, JavaScript and TypeScript and proficient in using Spring, ReactJS, NextJS, Material-UI and Tailwind CSS to create attractive and intuitive user interfaces. I have experience with unit testing with Jest. I am passionate about software engineering, i study a lot about software architecture, good practices in building good software, innovation and i always seek to learn new technologies to provide creative and efficient solutions for projects. I strive to create a great user experience.
 
 - You can contact me in : luismaia1407@gmail.com
-- I'm currently studying Computer Science at Universidade Federal do Ceará
+- Graduated in Computer Science from the Federal University of Ceará
 
 <a href="https://github.com/luismaia-git/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luismaia-git&theme=dark" />
